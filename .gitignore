@@ -23,7 +23,7 @@ Thumbs.db
 .idea/
 .vscode/
 .vs/
-
+2_push.sh
 ## Hugo 的默认内容目录（如果需要保留，可以删除这一行）
 #content/
 #
