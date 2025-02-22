@@ -8,4 +8,4 @@ weight: 1
 
 作者微博：我爱菠萝萝菠爱我
 
-Github：
+Github：https://github.com/xox-ota/photo-tips
