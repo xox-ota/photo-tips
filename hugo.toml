@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'cn-zh'
+title1 = 'The missing manual for XOX 📷'
+title = '👋 XOX 📷'
+theme = 'hugo-book'
+
+[markup.goldmark.renderer]
+  unsafe = true

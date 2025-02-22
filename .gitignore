@@ -1,0 +1,45 @@
+# Hugo 项目默认忽略文件
+
+# 构建生成的静态文件
+public/
+resources/
+
+# 配置文件（根据需要保留或忽略）
+config.toml
+config.yaml
+config.json
+
+# 开发过程中生成的临时文件
+*.bak
+*.tmp
+*.log
+
+# 编辑器和 IDE 生成的文件
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vs/
+
+## Hugo 的默认内容目录（如果需要保留，可以删除这一行）
+#content/
+#
+## Hugo 的默认静态目录（如果需要保留，可以删除这一行）
+#static/
+#
+## Hugo 的默认布局目录（如果需要保留，可以删除这一行）
+#layouts/
+#
+## Hugo 的默认数据目录（如果需要保留，可以删除这一行）
+#data/
+#
+## Hugo 的默认主题目录（如果需要保留，可以删除这一行）
+#themes/
+
+# 其他可能不需要提交的文件
+.DS_Store
+Thumbs.db
+node_modules/
