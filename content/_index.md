@@ -46,14 +46,14 @@ type: docs
 
 **示例1 ：** 以曝光时间 1/500s 拍摄——主体清晰（但手部区域略微模糊）：
 
-![](/images/1_1_500s.png)
+![](images/1_1_500s.png)
 
 
 ****
 
 **示例2：** 以曝光时间 1/800s拍摄，获得空中定格的清晰画面：
 
-<img src="/images/2_1_800s.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="images/2_1_800s.png"  style="max-height: 600px; display: block; margin: auto;">
 
 #### 🎯 第二要点：大光圈
 
@@ -62,7 +62,7 @@ F2.8 及以上。
 
 示例以 F1.4光圈、1/500s 拍摄，进光量不足导致ISO飙到了5000，图片在放大后（右侧）细节丢失：
 
-![](/images/3_f1.4_iso_5000.png)
+![](images/3_f1.4_iso_5000.png)
 
 
 #### 🌟感光度ISO：自动
@@ -81,14 +81,14 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式在地偶拍摄
 
 + **广域**
 
-<img src="/images/4_guangyu.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="images/4_guangyu.png"  style="max-height: 200px; display: block; margin: auto;">
 
 
 图省事可以选择广域模式，像手机一样直接拍即可，对焦位置可以戳屏幕调整。
 
 + **跟踪：扩展点**
 
-<img src="/images/5_genzong.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="images/5_genzong.png"  style="max-height: 200px; display: block; margin: auto;">
 
 
 **“跟踪:扩展点”是最佳的对焦区域设置**，只不过有一点理解成本；它相较于“广域” 有两个优势：
@@ -103,7 +103,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式在地偶拍摄
 
 舞台灯光场景复杂多变，容易出现“大光比”场景，比如图示人物很黑、背景过曝 😭：
 
-<img src="/images/6_guangbi.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="images/6_guangbi.png"  style="max-height: 600px; display: block; margin: auto;">
 
 
 
@@ -111,17 +111,17 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式在地偶拍摄
 
 1. **多重测光**
 
-<img src="/images/7_ceguang_duochong.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="images/7_ceguang_duochong.png"  style="max-height: 200px; display: block; margin: auto;">
 
 多重测光是相机最智能的测光模式，它基于整个画面的亮度分布计算出合适的曝光值。应该**优先选择多重测光模式**
 ，即“先相信相机的判断”。此外索尼相机记得打开“[多重测光人脸优先](https://helpguide.sony.net/ilc/2360/v1/zh-cn/contents/0406M_face_prty_in_mlti_mtr.html?search=%E5%A4%9A%E9%87%8D%E6%B5%8B%E5%85%89)
 ”设置，它会进一步保证人脸正确曝光。
 
-<img src="/images/8.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="images/8.png"  style="max-height: 200px; display: block; margin: auto;">
 
 2. **点测光**
 
-<img src="/images/9.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="images/9.png"  style="max-height: 200px; display: block; margin: auto;">
 
 **当光线环境太复杂、多重测光不好使时，应该将测光模式更换为“点测光”**。点测光
 只对画面中的一个小圆形区域进行测光，拍摄时将测光点对准XOX面部，可以让面部获得最精确的曝光。
@@ -129,7 +129,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式在地偶拍摄
 索尼相机的测光点位置默认处于屏幕中心，可以进一步调整测光点位置以好地构图：
 
 
-<img src="/images/11.png"  style="max-height: 350px; display: block; margin: auto;">
+<img src="images/11.png"  style="max-height: 350px; display: block; margin: auto;">
 
 
 **测光点位置调整方法：**
@@ -137,7 +137,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式在地偶拍摄
 1. 确保“对焦区域” 设置为 “**跟踪: 扩展点**” （ “广域”对焦区域无法调整测光点位置）
 2. 打开 点测光点 与 “对焦点联动” 选项
 
-<img src="/images/10.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="images/10.png"  style="max-height: 200px; display: block; margin: auto;">
 
 3. 在屏幕上戳一下，选定了对焦位置的同时，也同时确定了测光点位置。
 
@@ -173,7 +173,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式在地偶拍摄
 
 要获得细节丰富的成像，不仅要光圈大，锐度还要高，对镜头的锐度评价可参考 Sony Alpha Blog 评级：
 
-<img src="/images/12.png"  style="max-height: 500px; display: block; margin: auto;">
+<img src="images/12.png"  style="max-height: 500px; display: block; margin: auto;">
 
 
 + 全画幅镜头评级：[https://sonyalpha.blog/2019/11/10/which-lenses-to-maximise-the-potential-of-the-sony-a7riv/](https://sonyalpha.blog/2019/11/10/which-lenses-to-maximise-the-potential-of-the-sony-a7riv/)
@@ -225,7 +225,7 @@ A6700 价格超越了全画幅A7C，从地偶拍摄效果而言，不如换全�
 
 不要去折腾那些曲线陡峭的工具（如 PS），AI时代直接上基于AI的修图工具，比如“像素蛋糕” 🍰，先套一个滤镜，再各种设置把玩一下，效果会好很多。
 
-<img src="/images/14.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="images/14.png"  style="max-height: 600px; display: block; margin: auto;">
 
 
 ---
