@@ -46,14 +46,14 @@ type: docs
 
 **示例1 ：** 以曝光时间 1/500s 拍摄——主体清晰，但手部区域存在模糊：
 
-![](images/1_1_500s.png)
+![](webp/1_1_500s.webp)
 
 
 ****
 
 **示例2：** 以曝光时间 1/800s拍摄，获得空中定格的清晰画面：
 
-<img src="images/2_1_800s.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="webp/2_1_800s.webp"  style="max-height: 600px; display: block; margin: auto;">
 
 #### 🎯 第二要点：大光圈
 
@@ -62,7 +62,7 @@ F2.8 及以上。
 
 示例以 F1.4光圈、1/500s 拍摄，进光量不足导致ISO飙到了5000，图片在放大后（右侧）细节丢失：
 
-![](images/3.png)
+![](webp/3.webp)
 
 
 #### 🌟感光度ISO：自动
@@ -76,16 +76,16 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式对于地偶拍
 
 #### 🌟对焦区域
 
-+ **广域**
++ **1. 广域**
 
-<img src="images/4_guangyu.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/4_guangyu.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 
 图省事可以选择广域模式，像手机一样直接拍即可。主要缺点是当取景器内有多个人时，对焦到谁是无法预判的，需要戳屏幕调整对焦位置。
 
-+ **跟踪：扩展点**
++ **2. 跟踪：扩展点**
 
-<img src="images/5_genzong.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/5_genzong.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 
 **“跟踪:扩展点”是最佳的对焦区域设置**，它相较于“广域” 有两个优势：
@@ -100,7 +100,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式对于地偶拍
 
 舞台灯光场景复杂多变，容易出现测光不准和“大光比”场景，比如图示人物很黑、背景过曝 😭：
 
-<img src="images/6.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="webp/6.webp"  style="max-height: 600px; display: block; margin: auto;">
 
 
 大光比场景的最佳解决方案是HDR，但微单HDR一般通过"多帧合成"方式实现（摄短曝光、正常曝光、长曝光三张照片，然后算法融合），
@@ -110,17 +110,17 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式对于地偶拍
 
 1. **多重测光**
 
-<img src="images/7_ceguang_duochong.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/7_ceguang_duochong.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 多重测光是相机最智能的测光模式，它基于整个画面的亮度分布计算出合适的曝光值。应该**优先选择多重测光模式**
 ，即“先相信相机的判断”。此外记得打开“[多重测光人脸优先](https://helpguide.sony.net/ilc/2360/v1/zh-cn/contents/0406M_face_prty_in_mlti_mtr.html?search=%E5%A4%9A%E9%87%8D%E6%B5%8B%E5%85%89)
 ”设置，它会尝试保证人脸曝光正确。
 
-<img src="images/8.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/8.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 2. **点测光**
 
-<img src="images/9.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/9.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 **当环境光太复杂导致多重测光失效时，将测光模式更换为“点测光”**。点测光
 只对画面中的一个小圆形区域进行测光，拍摄时将测光点对准XOX面部，可以让面部获得最精确的曝光。
@@ -128,7 +128,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式对于地偶拍
 索尼相机的测光点位置默认处于屏幕中心，可以进一步调整测光点位置以更好地构图：
 
 
-<img src="images/11.png"  style="max-height: 350px; display: block; margin: auto;">
+<img src="webp/11.webp"  style="max-height: 350px; display: block; margin: auto;">
 
 
 **测光点位置调整方法：**
@@ -136,7 +136,7 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式对于地偶拍
 1. 确保“对焦区域” 设置为 “**跟踪: 扩展点**” （ “广域”对焦区域无法调整测光点位置）
 2. 打开 点测光点 与 “对焦点联动” 选项
 
-<img src="images/10.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/10.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 3. 在屏幕上戳一下，在选定对焦位置的同时也确定了测光点位置。
 
@@ -170,13 +170,13 @@ AF-C 模式适用于拍摄运动对象，因此这个选项模式对于地偶拍
 
 要获得细节丰富的成像，不仅要光圈大，锐度还要高，对镜头的锐度评价可参考 Sony Alpha Blog 评级：
 
-<img src="images/12.png"  style="max-height: 500px; display: block; margin: auto;">
+<img src="webp/12.webp"  style="max-height: 500px; display: block; margin: auto;">
 
 
 + 全画幅镜头评级：[https://sonyalpha.blog/2019/11/10/which-lenses-to-maximise-the-potential-of-the-sony-a7riv/](https://sonyalpha.blog/2019/11/10/which-lenses-to-maximise-the-potential-of-the-sony-a7riv/)
 + 半画幅镜头评级：[https://sonyalpha.blog/2020/03/02/which-lenses-are-the-sharpest-for-a-a6xxx/](https://sonyalpha.blog/2020/03/02/which-lenses-are-the-sharpest-for-a-a6xxx/)
 
-建议 **只考虑评级在 Outstanding 或 Excellent** 的镜头，当硬件上推到极致却依旧获得崩坏的照片后，就可以归因于场地，而不是相机\自身的问题了<img src="emoji/doge1.avif"  style="max-height: 1.5rem; display: inline;">
+建议 **只考虑评级在 Outstanding 或 Excellent** 的镜头，这样当获得崩坏的照片后就可以归因于场地，而不是相机\自身的问题了<img src="emoji/doge1.avif"  style="max-height: 1.5rem; display: inline;">
 
 #### 🎯 机型推荐
 
@@ -217,27 +217,27 @@ A6700 价格超越了全画幅A7C，从地偶照片拍摄效果而言，不如�
 为便于直观了解拍摄参数进行分析，指南附带开源了一个Python脚本，用于将索尼的.ARW文件进行批量重命名为 "日期-光圈-快门-ISO-焦段-机型" 格式：
 https://github.com/xox-ota/raw_tool
 
-<img src="images/17.png"  style="max-height: 200px; display: block; margin: auto;">
+<img src="webp/17.webp"  style="max-height: 200px; display: block; margin: auto;">
 
 ---
 
 #### 🎯 后期：AI修图
 
-不要浪费时间去搞那些学习曲线过于陡峭的工具（如 PS），直接上基于AI的修图工具，比如“像素蛋糕” 🍰，大幅度降低后期成本。
+不要浪费时间在那些学习曲线过于陡峭的工具上（如 PS），直接上基于AI的修图工具，比如“像素蛋糕” 🍰，大幅度降低后期成本。
 
 上来直接套一个 AI 色彩风格滤镜：
 
-<img src="images/15.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="webp/15.webp"  style="max-height: 600px; display: block; margin: auto;">
 
 
 XOX选的好，修图到这里就可以结束咧；示例：
 
-<img src="images/14.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="webp/14.webp"  style="max-height: 600px; display: block; margin: auto;">
 
 
 当然也可以对肤色进行细微调整、增加眼神光，去还原XOX的真实美貌：
 
-<img src="images/16.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="webp/16.webp"  style="max-height: 600px; display: block; margin: auto;">
 
 ---
 
