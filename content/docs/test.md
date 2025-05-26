@@ -1,7 +1,7 @@
 ---
 title: "关于"
 description: ""
-weight: 1
+weight: 2
 ---
 
 # 关于
