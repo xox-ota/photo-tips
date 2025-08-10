@@ -407,7 +407,7 @@ https://github.com/xox-ota/raw_tool
 
 宝宝素质过硬的话（心理素质 or 身体素质），修图到这里就可以结束了 <img src="emoji/doge2.avif"  style="max-height: 1.5rem; display: inline-block;">：
 
-<img src="images/14.png"  style="max-height: 600px; display: block; margin: auto;">
+<img src="images/photos/6.png"  style="max-height: 600px; display: block; margin: auto;">
 
 
 当然也可以对肤色进行细微调整、增加眼神光，去还原宝宝的真实美貌：
